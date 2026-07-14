@@ -1,3 +1,4 @@
 .env
 ___pycache__/
+*.pyc
 reports/
